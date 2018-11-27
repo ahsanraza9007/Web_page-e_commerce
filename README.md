@@ -34,6 +34,6 @@
 		</div>
 		</div>
 		</div>
-		<footer><div class="container"><center>Copyright<sup> c &nbsp</sup>Lifestyle Store.All Rights Reserved|Contact Us:91+ 9007869574</center></div></footer>
+		<footer><div class="container"><center>Copyright<sup> c </sup>&nbspLifestyle Store.All Rights Reserved|Contact Us:91+ 9007869574</center></div></footer>
     </body>
 </html>
